@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fd509eb-ccd7-4d57-89c0-76fcec440b67" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AIIMS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/All.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Anatomy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/BookList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Completed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ENT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Free.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HomeNavigator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Paused.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Qbank.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Qbank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/QbankNavigator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Unattempted.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Videos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Videos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Zoology.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/anatomy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/appContainerForTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/biochemistry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/community.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/completedModules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/forensic.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/lectureVideos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/microbiology.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/opthalmology.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/pathology.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/pharmacy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/physiology.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/surgery.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/tick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/toDo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/todo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fd509eb-ccd7-4d57-89c0-76fcec440b67" name="Default Changelist" comment="" />
+      <created>1561707239220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561707239220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.33476394" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
